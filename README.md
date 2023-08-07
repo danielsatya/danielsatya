@@ -8,3 +8,8 @@ For this reason, I wanted to start this project to facilitate the lives of web d
 
 THE WORLD IS A CLICK AWAY!
 
+[Ananda Duipa](https://anandaduipa.org) - An organization website
+
+[W3Presets](https://w3presets.org) - A free open-source code library
+
+
