@@ -32,15 +32,21 @@ THE WORLD IS A CLICK AWAY!
 
 1. [W3Presets](https://w3presets.org)
 
+
+![Update your browser](https://w3presets.org/ASSETS/logo.png)
+
+
  - W3Presets.org is a platform dedicated to providing web developers and designers with a curated collection of HTML, CSS, and JavaScript presets and templates. It's designed to simplify the development process and inspire creativity.
 
 - **Role**: As the lead developer, I was responsible for designing the user interface, implementing the responsive layout, and building the back-end functionalities. I utilized HTML5, CSS, and JavaScript to create an intuitive browsing experience and ensure compatibility across various devices.
 
-2. [Ananda Duipa](https://anandaduipa.org) 
+2. [Ananda Duipa](https://anandaduipa.org)
 
-- The Ananda Duipa Foundation is a non-profit organization focused on empowering underprivileged communities through education, healthcare, and sustainable initiatives. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
+![Update your browser](https://anandaduipa.org/assets/logotrans.png)
 
-- **Role**: For this project, I employed HTML, CSS, and PHP to develop a website that not only conveys the organization's message effectively but also allows for seamless donation processing. The responsive design ensures accessibility from different devices, helping the foundation reach a wider audience.
+- The Ananda Duipa Foundation is a non-profit group. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
+
+- **Role**: For this project, I employed HTML, CSS, JS and PHP to develop a website that not only conveys the organization's message effectively but also allows for seamless donation processing. The responsive design ensures accessibility from different devices, helping the foundation reach a wider audience.
 
 
 
