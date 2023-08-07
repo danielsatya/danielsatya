@@ -26,7 +26,6 @@ THE WORLD IS A CLICK AWAY!
 
 **SEO and Digital Marketing**: I understand the importance of optimizing websites for search engines and ensuring they're equipped for successful digital marketing campaigns. I integrate SEO principles into my development process to improve visibility and reach.
 
-**PORTFOLIO**
 
 ![Update your browser](https://images.squarespace-cdn.com/content/v1/5f61e8e9ade16e25ac3540fe/1600689266809-Z379OTTXM6GAXLQ6VTC4/portfolio.png)
 
@@ -44,7 +43,7 @@ THE WORLD IS A CLICK AWAY!
 
 ![Update your browser](https://anandaduipa.org/assets/logotrans.png)
 
-- The Ananda Duipa Foundation is a non-profit group. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
+- Ananda Duipa is a non-profit group. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
 
 - **Role**: For this project, I employed HTML, CSS, JS and PHP to develop a website that not only conveys the organization's message effectively but also allows for seamless donation processing. The responsive design ensures accessibility from different devices, helping the foundation reach a wider audience.
 
