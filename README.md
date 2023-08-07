@@ -2,11 +2,13 @@
  
 Hi, my name is Daniel Hernandez, I'm a young web developer who loves to read and write books. 
 
-![Update your browser](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ffeba63-3b89-4243-aca6-e74085ec32f0/dax50nf-4729867c-8f5d-486d-87f0-2320156b393a.jpg/v1/fill/w_1024,h_576,q_75,strp/kimi_no_nawa____stars_by_aowvn_dax50nf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNGZmZWJhNjMtM2I4OS00MjQzLWFjYTYtZTc0MDg1ZWMzMmYwXC9kYXg1MG5mLTQ3Mjk4NjdjLThmNWQtNDg2ZC04N2YwLTIzMjAxNTZiMzkzYS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JXjvcxmXPHftMKB2aD0HCbLEOCh9gJyBnAWweWP7WmM)
+![Update your browser](https://www.mkgifs.com/wp-content/uploads/2022/09/Cool-Itachi-Wallpapers-GIF.gif)
 
 THE WORLD IS A CLICK AWAY!
 
 **Skills**
+
+![Update your browser](https://fondazionesvp.it/svpf/wp-content/uploads/2018/02/skills-icon-large.png)
 
 **HTML5, CSS, and JavaScript**: Proficient in crafting responsive and visually appealing web layouts using the latest front-end technologies. I ensure cross-browser compatibility and a smooth browsing experience on various devices.
 
@@ -26,15 +28,19 @@ THE WORLD IS A CLICK AWAY!
 
 **PORTFOLIO**
 
-1. [W3Presets](https://w3presets.org)
-Description: W3Presets.org is a platform dedicated to providing web developers and designers with a curated collection of HTML, CSS, and JavaScript presets and templates. It's designed to simplify the development process and inspire creativity.
+![Update your browser](https://images.squarespace-cdn.com/content/v1/5f61e8e9ade16e25ac3540fe/1600689266809-Z379OTTXM6GAXLQ6VTC4/portfolio.png)
 
-**Role**: As the lead developer, I was responsible for designing the user interface, implementing the responsive layout, and building the back-end functionalities. I utilized HTML5, CSS, and JavaScript to create an intuitive browsing experience and ensure compatibility across various devices.
+1. [W3Presets](https://w3presets.org)
+
+ - W3Presets.org is a platform dedicated to providing web developers and designers with a curated collection of HTML, CSS, and JavaScript presets and templates. It's designed to simplify the development process and inspire creativity.
+
+- **Role**: As the lead developer, I was responsible for designing the user interface, implementing the responsive layout, and building the back-end functionalities. I utilized HTML5, CSS, and JavaScript to create an intuitive browsing experience and ensure compatibility across various devices.
 
 2. [Ananda Duipa](https://anandaduipa.org) 
-Description: The Ananda Duipa Foundation is a non-profit organization focused on empowering underprivileged communities through education, healthcare, and sustainable initiatives. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
 
-**Role**: For this project, I employed HTML, CSS, and PHP to develop a website that not only conveys the organization's message effectively but also allows for seamless donation processing. The responsive design ensures accessibility from different devices, helping the foundation reach a wider audience.
+- The Ananda Duipa Foundation is a non-profit organization focused on empowering underprivileged communities through education, healthcare, and sustainable initiatives. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
+
+- **Role**: For this project, I employed HTML, CSS, and PHP to develop a website that not only conveys the organization's message effectively but also allows for seamless donation processing. The responsive design ensures accessibility from different devices, helping the foundation reach a wider audience.
 
 
 
