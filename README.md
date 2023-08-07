@@ -2,14 +2,18 @@
  
 Hi, my name is Daniel Hernandez, I'm a young web developer who loves to read and write books. 
 
+![Update your browser](https://w3presets.org/ASSETS/IMAGES/ME.png)
+
 THE WORLD IS A CLICK AWAY!
 
-*** HTML CSS JS PHP PYTHON ***
+**HTML CSS JS PHP PYTHON**
 
 **PORTFOLIO**
 
 [Ananda Duipa](https://anandaduipa.org) - An organization website
 
 [W3Presets](https://w3presets.org) - A free open-source code library
+
+
 
 
