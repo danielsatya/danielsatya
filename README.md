@@ -2,7 +2,7 @@
  
 Hi, my name is Daniel Hernandez, I'm a young web developer who loves to read and write books. 
 
-![Update your browser](https://w3presets.org/ASSETS/IMAGES/ME.png)
+![Update your browser](https://i.imgur.com/m3evsss.jpeg)
 
 THE WORLD IS A CLICK AWAY!
 
