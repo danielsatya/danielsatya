@@ -39,15 +39,5 @@ THE WORLD IS A CLICK AWAY!
 
 - **Role**: As the lead developer, I was responsible for designing the user interface, implementing the responsive layout, and building the back-end functionalities. I utilized HTML5, CSS, and JavaScript to create an intuitive browsing experience and ensure compatibility across various devices.
 
-2. [Ananda Duipa](https://anandaduipa.org)
-
-![Update your browser](https://anandaduipa.org/assets/logotrans.png)
-
-- Ananda Duipa is a non-profit group. The website serves as a hub for sharing their mission, accomplishments, and ways to get involved.
-
-- **Role**: For this project, I employed HTML, CSS, JS and PHP to develop a website that not only conveys the organization's message effectively but also allows for seamless donation processing. The responsive design ensures accessibility from different devices, helping the foundation reach a wider audience.
-
-
-
 
 
